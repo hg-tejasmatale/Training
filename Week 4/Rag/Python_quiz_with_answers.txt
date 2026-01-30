@@ -1,0 +1,38 @@
+1. What is the primary purpose of the `if __name__ == "__main__":` block in Python?
+A) To define a new class
+B) To ensure code runs only when the script is executed directly
+C) To import external libraries
+D) To create a loop that runs indefinitely
+Answer: B)
+
+2. Which of the following data structures in Python is ordered, mutable, and can contain duplicate elements?
+A) Tuple
+B) Set
+C) Dictionary
+D) List
+Answer: D)
+
+3. What keyword is used to define a function in Python?
+A) `function`
+B) `def`
+C) `func`
+D) `define`
+Answer: B)
+
+4. Which of the following is a mutable data type in Python?
+A) String
+B) Integer
+C) Tuple
+D) List
+Answer: D)
+
+5. What will the following Python code output?
+```python
+print(10 // 3)
+```
+A) 3.3333333333333335
+B) 3
+C) 3.0
+D) Error
+Answer: B)
+<END>
