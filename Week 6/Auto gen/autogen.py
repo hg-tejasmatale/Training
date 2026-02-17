@@ -14,7 +14,7 @@ async def main() -> None:
     
     model_client = OpenAIChatCompletionClient(
         model="gemini-2.5-flash",
-        api_key=('AIzaSyA3m4KtAnU9A8h07h9MmuiCp0i31HQd86g'),
+        api_key=(''),
         model_info=ModelInfo(
             vision=True,
             function_calling=True,

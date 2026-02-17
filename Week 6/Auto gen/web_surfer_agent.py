@@ -9,7 +9,7 @@ import os
 
 async def main() -> None:
     # ✅ Never hardcode secrets
-    api_key = "AIzaSyBpu10uomHfMJ8x0ISYo3d-GY0n20C5_kA"
+    api_key = ""
     if not api_key:
         raise RuntimeError("Set GOOGLE_API_KEY in your environment")
 
